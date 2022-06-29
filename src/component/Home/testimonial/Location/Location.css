@@ -1,0 +1,29 @@
+#location{
+    height: 500px;
+width: auto;
+
+background-color: #181d34;
+
+}
+.map {
+    margin-top: 3%;
+    margin-left: 6%;
+    height: 400px;
+    width: 40%;
+    float: left;
+  
+}
+.map:hover{
+    transform: scale(1.1);
+}
+#c1{
+    color: white;
+}
+.map>iframe {
+    height: 430px;
+    border: 0;
+    width: 68%;
+}
+label{
+    color: white;
+}

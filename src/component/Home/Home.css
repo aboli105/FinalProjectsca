@@ -1,0 +1,14 @@
+.carousel {
+ 
+    height: 600px;
+}
+.carousel-item > img{
+    height: 600px;
+}
+.navbar-brand > img {
+    vertical-align: middle;
+    width: 9%;
+}
+.navbar-light .navbar-brand {
+    color: rgb(235 229 229 / 90%);
+}

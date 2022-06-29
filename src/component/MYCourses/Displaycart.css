@@ -1,0 +1,111 @@
+.add1{
+    width:40%;
+    height: 250px;
+     
+    margin-left: 5% ;
+    float: left;
+    margin-top: 5%;
+}
+
+.tile1 {
+    margin-left: 4%;
+    margin-top: 5%;
+    height: 175px;
+    width: 90%;
+    border-radius: 10px;
+     
+    box-shadow: 1px 1px 14px rgba(0, 0, 0, 0.712);
+   
+    float: left;
+}
+
+    
+
+#img2 {
+    height: 125px;
+    width: 27%;
+    float: left;
+    margin-top: 3.5%;
+   
+}
+#img2 > img {
+    height: 123px;
+    width: 100%;
+}
+
+#img3 {
+    margin-left: 4%;
+    height: 147px;
+    width: 63%;
+    float: left;
+    margin-top: 3%;
+}
+h2{
+    color:goldenrod;
+    font-weight: bold;
+}
+
+#price{
+     color: black;
+}
+#newtile {
+   padding-bottom: 5%;
+    width: 100%;
+
+}
+#tag{
+    color: black;
+}
+#bt1 {
+  
+    height: 100px;
+    width: 37%;
+    float: left;
+    margin-left: 4%;
+}
+#bt {
+ 
+    height: 100px;
+    width: 62%;
+    float: left;
+    margin-left: 35%;
+}
+#bt2{
+    height: 700px;
+    width: 100%;
+ 
+}
+#my{
+    height: 20px;
+     width:20%;
+    
+}
+#img4 {
+    color: black;
+    height: 79px;
+    width: 105%;
+
+}
+#img4>p{
+    color: black;
+}
+#main{
+
+    height: 286px;
+    width: 105%;
+    border-style: inset;
+    
+}
+#main1{
+    height: 500px;
+    width: 80%;
+    border-style: inset;
+    margin-left: 10%;
+    margin-top: 5%;
+    overflow-y: scroll;
+     
+}
+#main1>h1{
+    margin-left:35%;
+    
+}

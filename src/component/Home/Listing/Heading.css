@@ -1,0 +1,16 @@
+#hd{
+    width:100%;
+    margin-top: 2%;
+}
+.content {
+    margin-left: 2%;
+    width: 60%;
+    height: 300px;
+    float: left;
+}
+.imgcontent {
+    width: 28%;
+    height: 300px;
+    float: left;
+    margin-left: 5%;
+}

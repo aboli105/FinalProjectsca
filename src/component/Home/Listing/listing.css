@@ -1,0 +1,57 @@
+
+.tile {
+    margin-left: 4%;
+    margin-top: 5%;
+    height: 165px;
+    width: 42%;
+    border-radius: 10px;
+     
+    box-shadow: 1px 1px 14px rgba(0, 0, 0, 0.712);
+   
+    float: left;
+}
+.tile:hover{
+    transform: scale(1.1);
+    box-shadow: 1px 1px 14px blue;
+}
+    
+
+#img2 {
+    height: 125px;
+    width: 27%;
+    float: left;
+    margin-top: 3.5%;
+   
+}
+#img2 > img {
+    height: 123px;
+    width: 100%;
+}
+
+#img3 {
+    margin-left: 4%;
+    height: 147px;
+    width: 63%;
+    float: left;
+    margin-top: 3%;
+}
+#img>h2{
+    color:goldenrod;
+    font-weight: bold;
+    text-decoration: none;
+}
+h2:hover{
+    transform: scale(1.1);
+    color:rgba(5, 5, 71, 0.582);
+}
+#price{
+     color: black;
+}
+#newtile {
+   padding-bottom: 5%;
+    width: 100%;
+
+}
+#tag{
+    color: black;
+}

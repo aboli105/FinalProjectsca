@@ -1,0 +1,52 @@
+.test{
+    width:auto;
+    height: 600px;
+    
+    
+    background-image: url(https://i.ibb.co/q1dmmD6/Untitled-design.png);
+    background-size: 100% 600px;
+    background-repeat: no-repeat;
+   
+}
+#test2 {
+    height: 420px;
+    width: 83%;
+    margin-left: 107px;
+    margin-top: 1%;
+  
+}
+#heading1 {
+    height: 50px;
+    width: 70%;
+    margin-left: 15%;
+    margin-top: 1%;
+   
+    color: #d5d9bf;
+    text-align: center;
+    font-style: italic;
+}
+.review >.bi  {
+    color: #ffffff70;
+    font-size: 570%;
+}
+p{
+    color: white;
+  font-style: italic;
+}
+.review >h6 {
+    font-size: 13px;
+}
+.review {
+    height: 196px;
+    width: 40%;
+    margin-left: 64px;
+    margin-top: 1%;
+    
+    float: left;
+}
+#down {
+    color: whitesmoke;
+    margin-top: 2%;
+    margin-left: 47%;
+    font-size: 233%;
+}
